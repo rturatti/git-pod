@@ -2,4 +2,4 @@
 
 GitPod workspace for AWS
 
-https://gitpod.io/#https://github.com/CaravanaCloud/aws-pod
+https://gitpod.io/#https://github.com/rturatti/git-pod
